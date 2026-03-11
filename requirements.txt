@@ -1,0 +1,9 @@
+gradio==4.13.0
+gradio-client==0.8.0
+google-generativeai
+numpy
+scikit-learn
+pypdf2
+sentence-transformers
+pandas
+deep_translator
